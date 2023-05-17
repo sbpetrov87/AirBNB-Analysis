@@ -6,4 +6,4 @@ The following variables were analyzed:
 3. Room type
 4. Cleanliness Rating
 
-RStudio was used to clean, process and analyze dataset.
+RStudio was used to clean, process and analyze dataset. See airBNB document for code details.
